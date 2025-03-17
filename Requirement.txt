@@ -1,1 +1,7 @@
+cv2
+ultralytics
+pandas
+numpy
+cvzone
+pyfirmata
 
